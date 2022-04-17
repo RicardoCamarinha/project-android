@@ -29,6 +29,8 @@
 body{
     font-family: var(--fonte-padrao);
     background-image: url('../imagens/wallpaper.jpg');
+    background-repeat: repeat;
+    background-size: 100vw;
 }
 
 a.externo::after{
