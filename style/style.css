@@ -27,8 +27,8 @@
 
 
 body{
-    background-color: wheat;
     font-family: var(--fonte-padrao);
+    background-image: url('../imagens/wallpaper.jpg');
 }
 
 a.externo::after{
@@ -90,7 +90,7 @@ main{
     max-width: 1000px;
     margin: auto;
     padding: 20px;
-    box-shadow: 0px 0px 10px black;
+    box-shadow: 0px 0px 15px black;
     margin-bottom: 20px;
     border-radius: 5px 5px 10px 10px;
 }
