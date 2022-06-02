@@ -45,6 +45,10 @@ header{
     padding-top: 40px;
 }
 
+.externo{
+    border-radius: 5px;
+}
+
 header > h1{
     color: white;
     font-family: var(--fonte-destaque);
@@ -110,6 +114,7 @@ main h2{
     background-image: linear-gradient(to right, var(--cor2), transparent);
     text-indent: 8px;
     font-weight: normal;
+    border-radius: 5px;
 }
 
 main p{
@@ -141,6 +146,7 @@ main a:hover{
 
 main img {
     width: 100%;
+    border-radius: 3px;
 }
 
 main img#pequena{
@@ -155,6 +161,7 @@ div.video{
     padding: 20px;
     padding-bottom: 57%;
     position: relative;
+    border-radius: 5px;
 }
 
 div > iframe{
